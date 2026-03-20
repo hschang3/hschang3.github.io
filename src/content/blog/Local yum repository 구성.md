@@ -1,3 +1,9 @@
+---
+title: 'First post'
+description: 'Lorem ipsum dolor sit amet'
+pubDate: 'Jul 08 2022'
+heroImage: '/blog-placeholder-3.jpg'
+---
 ## 3. Local yum repository 구성
 
 ### A. Redhat 8 / CentOS 8
