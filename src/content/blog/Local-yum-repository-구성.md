@@ -6,6 +6,17 @@ heroImage: '/blog-placeholder-3.jpg'
 ---
 ## 3. Local yum repository 구성
 
+<Tabs>
+<TabItem value="debian" label="Debian (Ubuntu)" default>
+```bash title="Debian Based (e.g. Ubuntu)" showLineNumbers
+```
+</TabItem>
+<TabItem value="fedora" label="Fedora (RHEL/Rocky)">
+```bash title="Fedora Based (e.g. RHEL, Rocky)" showLineNumbers
+```
+</TabItem>
+
+
 ### A. Redhat 8 / CentOS 8
 
 - dark site를 전제로 한 것으로 인터넷 접속이 허용되는 서버는 불필요
