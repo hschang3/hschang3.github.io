@@ -1,7 +1,7 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+title: 'Local yum repository'
+description: 'Creating local yum repository'
+pubDate: 'Mar 27 2025'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 ## 3. Local yum repository 구성
