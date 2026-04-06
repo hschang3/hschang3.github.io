@@ -1,5 +1,5 @@
 ---
-title: 'Local yum repository'
+title: 'Local Yum repository'
 description: 'Creating local yum repository'
 pubDate: 'Mar 27 2025'
 heroImage: '/blog-placeholder-3.jpg'
